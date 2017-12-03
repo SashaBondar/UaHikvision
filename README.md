@@ -1,1 +1,1 @@
-海康威视Android studio版 直接代码中改变参数就可以是使用
+As start version used codebase from https://github.com/helloword1/HikVisionDemo.git
